@@ -85,7 +85,7 @@ global.pclg = colong_name
 global.aclg = colong_author
 //======================================//
 
-global.wm = '@rasel.ganz'
+global.wm = '@Kevin afsar'
 global.ucpn = ''
 
 //================= Url =================//
